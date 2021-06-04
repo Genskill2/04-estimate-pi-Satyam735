@@ -1,5 +1,4 @@
-include <stdlib.h>
-#include <stdio.h>
+include <stdio.h>
 #include <math.h>
 
 float mc_pi(int);
@@ -37,6 +36,7 @@ int main(void) {
     }
   }
 }
+
 
 
 
